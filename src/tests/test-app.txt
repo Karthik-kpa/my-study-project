@@ -1,0 +1,2 @@
+Test: Check that study task information is added correctly.
+Result: Passed.

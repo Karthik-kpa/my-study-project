@@ -1,0 +1,4 @@
+Study Planner
+
+Task: Learn meaningful Git commits.
+Status: In progress.
